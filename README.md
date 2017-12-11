@@ -1,11 +1,11 @@
 news-widget
 ===========
 
-A widget to display BlockExplorer news.
+A widget to display Block Explorer news.
 
 ## Usage
 
-An example is below on how to use the BlockExplorer news widget:
+An example is below on how to use the Block Explorer news widget:
 
 ```
 <div id="myid"></div>
